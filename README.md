@@ -1,2 +1,4 @@
 # database_design_and_MySQL
-An example of database design, normalisation and MySQL.
+An EERD example of relational database design, normalisation.
+
+The premise of the database is for an application which stores the data for the Commonwealth Games Swimming Championship.
